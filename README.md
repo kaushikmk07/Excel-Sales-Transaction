@@ -1,3 +1,4 @@
+📊 FreshCO Retail Order & Delivery Analytics Dashboard (Excel)
 This project is an end-to-end retail transaction and operations analytics case study built in Microsoft Excel, focused on understanding customer ordering behavior, delivery performance, completion efficiency, and lifetime value metrics for FreshCO.
 
 The analysis covers the complete order lifecycle — from transaction trends to customer acquisition and delivery operations.
